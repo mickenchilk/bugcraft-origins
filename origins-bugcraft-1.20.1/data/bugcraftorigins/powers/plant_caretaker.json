@@ -1,5 +1,6 @@
 {
-
+    "name": "§aPlant Caretaker§r",
+    "description": "Shift right click plants with an empty hand to make them grow.",
     "condition": {
         "type": "origins:and",
         "conditions": [

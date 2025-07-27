@@ -1,4 +1,6 @@
 {
+  "name": "Mini Riptide",
+  "description": "While submerged, launches you in the direction you are looking at. [Secondary]",
   "type": "origins:active_self",
   "entity_action": {
     "type": "origins:add_velocity",

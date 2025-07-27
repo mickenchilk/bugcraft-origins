@@ -3,5 +3,7 @@
     "description": "...",
     "order": 6,
     "icon": "ribbits:toadstool",
-    "powers": []
+    "powers": [
+        "bugcraftorigins:plant_caretaker"
+    ]
 }

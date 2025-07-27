@@ -1,8 +1,10 @@
 {
-  "type": "origins:attribute",
-  "modifier": {
+	"name": "Otter God's Blessing",
+	"description": "As a gift from the Otter God, you become physically stronger.",
+	"type": "origins:attribute",
+	"modifier": {
 		"attribute": "minecraft:generic.attack_damage",
 		"operation": "addition",
-		"value": 2 
+		"value": 2
 	}
 }

@@ -1,4 +1,6 @@
 {
+  "name": "Aquatic Predator",
+  "description": "When fully submerged in water you can fight at insane speeds and temporarily on land.",
   "type": "origins:stacking_status_effect",
   "condition": {
 	"type": "origins:submerged_in",

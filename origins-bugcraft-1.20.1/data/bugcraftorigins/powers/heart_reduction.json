@@ -1,4 +1,6 @@
 {
+  "name": "Heart Reduction",
+  "description": "You only have eight hearts.",
   "type": "origins:attribute",
   "modifier": {
     "name": "Eight lives health reduction",

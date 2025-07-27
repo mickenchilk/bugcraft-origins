@@ -1,4 +1,6 @@
 {
+  "name": "Otter Pouch",
+  "description": "Sea otters have flaps of loose skin under each forearm that they use like a pocket or pouch to carry as much food as possible back to the surface. [Primary]",
   "type": "origins:inventory",
   "drop_on_death": false,
   "key": {
