@@ -1,7 +1,7 @@
 {
     "name": "Human",
     "description": "A versatile and adaptable",
-    "impact": 1,
+    "order": 1,
     "icon": "minecraft:emerald",
     "powers": []
 }

@@ -1,7 +1,7 @@
 {
     "name": "Demonoid",
     "description": "...",
-    "impact": 4,
+    "order": 4,
     "icon": "minecraft:netherite_scrap",
     "powers": []
 }

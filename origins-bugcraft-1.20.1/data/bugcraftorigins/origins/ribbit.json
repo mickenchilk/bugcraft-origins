@@ -1,7 +1,7 @@
 {
     "name": "Ribbit",
     "description": "...",
-    "impact": 6,
+    "order": 6,
     "icon": "ribbits:toadstool",
     "powers": []
 }

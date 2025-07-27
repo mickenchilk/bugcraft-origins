@@ -1,7 +1,27 @@
 {
     "name": "Otter",
     "description": "...",
-    "impact": 11,
+    "order": 11,
+    "impact": 3,
     "icon": "crittersandcompanions:clam",
-    "powers": []
+    "powers": [
+        "origins:aqua_affinity",
+        "origins:aquatic",
+        "origins:wet_eyes",
+        "origins:swim_speed",
+        "origins:like_water",
+        "origins:more_exhasution",
+        "origins:no_shield",
+        "bugcraftorigins:improved_lungs",
+        "bugcraftorigins:aquatic_predator",
+        "bugcraftorigins:otter_gods_blessing",
+        "bugcraftorigins:otter_pouch",
+        "origins:claustrophobia",
+        "bugcraftorigins:heart_reduction",
+        "bugcraftorigins:mini_riptide",
+        "bugcraftorigins:miniature_dwarf",
+        "bugcraftorigins:land_slow",
+        "bugcraftorigins:jump",
+        "bugcraftorigins:step_height"
+    ]
 }

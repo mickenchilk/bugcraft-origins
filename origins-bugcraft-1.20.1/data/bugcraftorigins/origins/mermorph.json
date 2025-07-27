@@ -1,7 +1,7 @@
 {
     "name": "Mermorph",
     "description": "...",
-    "impact": 3,
+    "order": 3,
     "icon": "seadwellers:seashell_of_hunter",
     "powers": []
 }

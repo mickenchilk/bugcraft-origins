@@ -1,7 +1,7 @@
 {
     "name": "Deepling",
     "description": "...",
-    "impact": 10,
+    "order": 10,
     "icon": "cataclysm_spellbooks:leviathans_blessing",
     "powers": []
 }

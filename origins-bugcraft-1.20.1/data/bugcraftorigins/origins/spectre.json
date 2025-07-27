@@ -1,7 +1,7 @@
 {
     "name": "Spectre",
     "description": "...",
-    "impact": 8,
+    "order": 8,
     "icon": "born_in_chaos_v1:ethereal_spirit",
     "powers": []
 }

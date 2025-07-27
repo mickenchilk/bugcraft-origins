@@ -1,7 +1,7 @@
 {
     "name": "Undead",
     "description": "...",
-    "impact": 5,
+    "order": 5,
     "icon": "born_in_chaos_v1:shattered_skull",
     "powers": []
 }

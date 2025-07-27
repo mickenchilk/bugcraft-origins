@@ -2,6 +2,7 @@
     "replace": true,
     "order": 0,
     "enabled": true,
+    "loading_priority": 10,
     "name": "Origin",
     "origins": [
         "bugcraftorigins:human",
