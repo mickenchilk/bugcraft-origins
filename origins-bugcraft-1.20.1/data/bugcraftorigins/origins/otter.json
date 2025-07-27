@@ -12,16 +12,16 @@
         "origins:like_water",
         "origins:more_exhasution",
         "origins:no_shield",
-        "bugcraftorigins:improved_lungs",
-        "bugcraftorigins:aquatic_predator",
-        "bugcraftorigins:otter_gods_blessing",
-        "bugcraftorigins:otter_pouch",
+        "bugcraftorigins:otter/improved_lungs",
+        "bugcraftorigins:otter/aquatic_predator",
+        "bugcraftorigins:otter/otter_gods_blessing",
+        "bugcraftorigins:otter/otter_pouch",
         "origins:claustrophobia",
         "bugcraftorigins:heart_reduction",
-        "bugcraftorigins:mini_riptide",
-        "bugcraftorigins:miniature_dwarf",
-        "bugcraftorigins:land_slow",
-        "bugcraftorigins:jump",
-        "bugcraftorigins:step_height"
+        "bugcraftorigins:otter/mini_riptide",
+        "bugcraftorigins:pekhui_sizing/mini_size",
+        "bugcraftorigins:pekhui_sizing/mini_land_slow",
+        "bugcraftorigins:pekhui_sizing/mini_jump",
+        "bugcraftorigins:pekhui_sizing/mini_step_height"
     ]
 }

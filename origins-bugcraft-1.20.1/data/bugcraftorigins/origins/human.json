@@ -3,5 +3,7 @@
     "description": "The most common race along with the undead. They are known for their bustling kingdoms and technological innovations.",
     "order": 1,
     "icon": "minecraft:emerald",
-    "powers": []
+    "powers": [
+        
+    ]
 }
