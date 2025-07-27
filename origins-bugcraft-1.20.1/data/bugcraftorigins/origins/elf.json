@@ -1,7 +1,7 @@
 {
     "name": "Elf",
     "description": "...",
-    "impact": 1,
+    "impact": 2,
     "icon": "minecraft:dark_oak_sapling",
     "powers": []
 }
