@@ -1,0 +1,8 @@
+okay heres my diary :)!
+to install the datapack, just make the origins-bugcraft folder into a zip
+and drop it into the world datapack !
+
+so the folder 'origins' is to overwrite the basic 'origins'
+that come with the mod
+all other layers should be only in the bugcraft folder
+

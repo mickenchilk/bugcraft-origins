@@ -1,0 +1,32 @@
+{
+  "mappings": {
+    "dev/muon/medievalorigins/mixin/client/ElytraModelMixin": {
+      "setupAnim(Lnet/minecraft/world/entity/LivingEntity;FFFFF)V": "Lnet/minecraft/client/model/ElytraModel;m_6973_(Lnet/minecraft/world/entity/LivingEntity;FFFFF)V"
+    },
+    "dev/muon/medievalorigins/mixin/ZombieVillagerInvoker": {
+      "startConverting": "m_34383_(Ljava/util/UUID;I)V"
+    },
+    "dev/muon/medievalorigins/mixin/compat/iceandfire/PixieAIStealMixin": {
+      "canUse": "Lcom/github/alexthe666/iceandfire/entity/ai/PixieAISteal;m_8036_()Z"
+    },
+    "dev/muon/medievalorigins/mixin/client/AbstractClientPlayerMixin": {
+      "tick()V": "Lnet/minecraft/client/player/AbstractClientPlayer;m_8119_()V"
+    }
+  },
+  "data": {
+    "searge": {
+      "dev/muon/medievalorigins/mixin/client/ElytraModelMixin": {
+        "setupAnim(Lnet/minecraft/world/entity/LivingEntity;FFFFF)V": "Lnet/minecraft/client/model/ElytraModel;m_6973_(Lnet/minecraft/world/entity/LivingEntity;FFFFF)V"
+      },
+      "dev/muon/medievalorigins/mixin/ZombieVillagerInvoker": {
+        "startConverting": "m_34383_(Ljava/util/UUID;I)V"
+      },
+      "dev/muon/medievalorigins/mixin/compat/iceandfire/PixieAIStealMixin": {
+        "canUse": "Lcom/github/alexthe666/iceandfire/entity/ai/PixieAISteal;m_8036_()Z"
+      },
+      "dev/muon/medievalorigins/mixin/client/AbstractClientPlayerMixin": {
+        "tick()V": "Lnet/minecraft/client/player/AbstractClientPlayer;m_8119_()V"
+      }
+    }
+  }
+}

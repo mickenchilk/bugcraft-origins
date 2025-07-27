@@ -1,0 +1,35 @@
+modLoader = "javafml"
+loaderVersion = "[40,)"
+license = "MIT"
+issueTrackerURL="https://github.com/LimonBlaze/origins-classes-forge/issues"
+
+[[mods]]
+modId = "origins_classes"
+version = "1.2.1"
+displayName = "Origins: Classes"
+displayURL="https://github.com/LimonBlaze/origins-classes-forge/"
+logoFile="pack.png"
+credits="Thanks Apace for the original work, and thanks EdwinMindcraft for the forge port!"
+authors="LimonBlaze"
+description = "An add-on for the Origins mod which adds classes to the game."
+
+[[dependencies.origins_classes]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.origins_classes]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.origins_classes]]
+modId = "origins"
+mandatory = true
+versionRange = "[1.20.1-1.10.0.2,)"
+ordering = "NONE"
+side = "BOTH"

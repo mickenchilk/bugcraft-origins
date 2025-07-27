@@ -1,0 +1,70 @@
+{
+  "mappings": {
+    "io/github/apace100/origins/mixin/NoCobwebSlowdownMixin": {
+      "makeStuckInBlock": "Lnet/minecraft/world/entity/player/Player;m_7601_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/phys/Vec3;)V"
+    },
+    "io/github/apace100/origins/mixin/SelectionInvulnerabilityMixin": {
+      "isInvulnerableTo": "Lnet/minecraft/world/entity/Entity;m_6673_(Lnet/minecraft/world/damagesource/DamageSource;)Z"
+    },
+    "io/github/apace100/origins/mixin/WaterBreathingMixin$UpdateAir": {
+      "Lnet/minecraft/world/entity/player/Player;isEyeInFluid(Lnet/minecraft/tags/TagKey;)Z": "Lnet/minecraft/world/entity/player/Player;m_204029_(Lnet/minecraft/tags/TagKey;)Z",
+      "turtleHelmetTick": "Lnet/minecraft/world/entity/player/Player;m_36372_()V"
+    },
+    "io/github/apace100/origins/mixin/LikeWaterMixin": {
+      "Lnet/minecraft/world/entity/LivingEntity;getFluidFallingAdjustedMovement(DZLnet/minecraft/world/phys/Vec3;)Lnet/minecraft/world/phys/Vec3;": "Lnet/minecraft/world/entity/LivingEntity;m_20994_(DZLnet/minecraft/world/phys/Vec3;)Lnet/minecraft/world/phys/Vec3;",
+      "travel": "Lnet/minecraft/world/entity/LivingEntity;m_7023_(Lnet/minecraft/world/phys/Vec3;)V"
+    },
+    "io/github/apace100/origins/mixin/ConduitOnLandMixin": {
+      "applyEffects": "Lnet/minecraft/world/level/block/entity/ConduitBlockEntity;m_155443_(Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Ljava/util/List;)V",
+      "Lnet/minecraft/world/entity/player/Player;isInWaterOrRain()Z": "Lnet/minecraft/world/entity/player/Player;m_20070_()Z"
+    },
+    "io/github/apace100/origins/mixin/DrawContextAccessor": {
+      "renderTooltipInternal": "m_280497_(Lnet/minecraft/client/gui/Font;Ljava/util/List;IILnet/minecraft/client/gui/screens/inventory/tooltip/ClientTooltipPositioner;)V"
+    },
+    "io/github/apace100/origins/mixin/ScareCreepersMixin": {
+      "Lnet/minecraft/world/entity/ai/goal/GoalSelector;addGoal(ILnet/minecraft/world/entity/ai/goal/Goal;)V": "Lnet/minecraft/world/entity/ai/goal/GoalSelector;m_25352_(ILnet/minecraft/world/entity/ai/goal/Goal;)V",
+      "registerGoals": "Lnet/minecraft/world/entity/monster/Creeper;m_8099_()V"
+    },
+    "io/github/apace100/origins/mixin/WaterVisibilityMixin": {
+      "getWaterVision": "Lnet/minecraft/client/player/LocalPlayer;m_108639_()F"
+    },
+    "io/github/apace100/origins/mixin/WaterBreathingMixin$CanBreatheInWater": {
+      "canBreatheUnderwater": "Lnet/minecraft/world/entity/LivingEntity;m_6040_()Z"
+    }
+  },
+  "data": {
+    "searge": {
+      "io/github/apace100/origins/mixin/NoCobwebSlowdownMixin": {
+        "makeStuckInBlock": "Lnet/minecraft/world/entity/player/Player;m_7601_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/phys/Vec3;)V"
+      },
+      "io/github/apace100/origins/mixin/SelectionInvulnerabilityMixin": {
+        "isInvulnerableTo": "Lnet/minecraft/world/entity/Entity;m_6673_(Lnet/minecraft/world/damagesource/DamageSource;)Z"
+      },
+      "io/github/apace100/origins/mixin/WaterBreathingMixin$UpdateAir": {
+        "Lnet/minecraft/world/entity/player/Player;isEyeInFluid(Lnet/minecraft/tags/TagKey;)Z": "Lnet/minecraft/world/entity/player/Player;m_204029_(Lnet/minecraft/tags/TagKey;)Z",
+        "turtleHelmetTick": "Lnet/minecraft/world/entity/player/Player;m_36372_()V"
+      },
+      "io/github/apace100/origins/mixin/LikeWaterMixin": {
+        "Lnet/minecraft/world/entity/LivingEntity;getFluidFallingAdjustedMovement(DZLnet/minecraft/world/phys/Vec3;)Lnet/minecraft/world/phys/Vec3;": "Lnet/minecraft/world/entity/LivingEntity;m_20994_(DZLnet/minecraft/world/phys/Vec3;)Lnet/minecraft/world/phys/Vec3;",
+        "travel": "Lnet/minecraft/world/entity/LivingEntity;m_7023_(Lnet/minecraft/world/phys/Vec3;)V"
+      },
+      "io/github/apace100/origins/mixin/ConduitOnLandMixin": {
+        "applyEffects": "Lnet/minecraft/world/level/block/entity/ConduitBlockEntity;m_155443_(Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Ljava/util/List;)V",
+        "Lnet/minecraft/world/entity/player/Player;isInWaterOrRain()Z": "Lnet/minecraft/world/entity/player/Player;m_20070_()Z"
+      },
+      "io/github/apace100/origins/mixin/DrawContextAccessor": {
+        "renderTooltipInternal": "m_280497_(Lnet/minecraft/client/gui/Font;Ljava/util/List;IILnet/minecraft/client/gui/screens/inventory/tooltip/ClientTooltipPositioner;)V"
+      },
+      "io/github/apace100/origins/mixin/ScareCreepersMixin": {
+        "Lnet/minecraft/world/entity/ai/goal/GoalSelector;addGoal(ILnet/minecraft/world/entity/ai/goal/Goal;)V": "Lnet/minecraft/world/entity/ai/goal/GoalSelector;m_25352_(ILnet/minecraft/world/entity/ai/goal/Goal;)V",
+        "registerGoals": "Lnet/minecraft/world/entity/monster/Creeper;m_8099_()V"
+      },
+      "io/github/apace100/origins/mixin/WaterVisibilityMixin": {
+        "getWaterVision": "Lnet/minecraft/client/player/LocalPlayer;m_108639_()F"
+      },
+      "io/github/apace100/origins/mixin/WaterBreathingMixin$CanBreatheInWater": {
+        "canBreatheUnderwater": "Lnet/minecraft/world/entity/LivingEntity;m_6040_()Z"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "order": 20,
+    "name": "Patron Deity",
+    "gui_title": {
+        "choose_origin": "Choose your patron deity."
+    },
+    "origins": [
+        "bugcraftpatrons:atheist",
+        "bugcraftpatrons:holy",
+        "bugcraftpatrons:blood",
+        "bugcraftpatrons:eldritch",
+        "bugcraftpatrons:nature_green",
+        "bugcraftpatrons:nature_blue",
+        "bugcraftpatrons:war"
+    ]
+}

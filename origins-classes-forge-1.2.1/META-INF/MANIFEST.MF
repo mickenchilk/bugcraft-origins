@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: origins_classes
+Specification-Vendor: LimonBlaze
+Specification-Version: 1
+Implementation-Title: origins_classes
+Implementation-Version: 1.2.1
+Implementation-Vendor: LimonBlaze
+Implementation-Timestamp: 2023-12-18T02:41:14+0000
+MixinConfigs: origins_classes.mixins.json
+

@@ -1,0 +1,24 @@
+{
+    "replace": false,
+    "order": 10,
+    "enabled": true,
+    "name": "Class",
+    "gui_title": {
+        "choose_origin": "Choose your RPG class."
+    },
+    "origins": [
+        "bugcraftclasses:rogue",
+        "bugcraftclasses:archer",
+        "bugcraftclasses:paladin",
+        "bugcraftclasses:barbarian",
+        "bugcraftclasses:necromancer",
+        "bugcraftclasses:beastmaster",
+        "bugcraftclasses:oriental_swordsman",
+        "bugcraftclasses:tradwife",
+        "bugcraftclasses:bard",
+        "bugcraftclasses:wizard",
+        "bugcraftclasses:cultivator",
+        "bugcraftclasses:priest",
+        "bugcraftclasses:death_knight"
+    ]
+}

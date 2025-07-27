@@ -1,0 +1,19 @@
+{
+    "replace": true,
+    "order": 0,
+    "enabled": true,
+    "name": "Origin",
+    "origins": [
+        "bugcraftorigins:human",
+        "bugcraftorigins:elf",
+        "bugcraftorigins:mermorph",
+        "bugcraftorigins:demonoid",
+        "bugcraftorigins:undead",
+        "bugcraftorigins:ribbit",
+        "bugcraftorigins:wyverian",
+        "bugcraftorigins:spectre",
+        "bugcraftorigins:deepling",
+        "bugcraftorigins:enderian",
+        "bugcraftorigins:otter"
+    ]
+}

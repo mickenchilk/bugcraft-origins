@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: origins
+Specification-Vendor: Apace100
+Specification-Version: 1.10.0
+Implementation-Title: origins-forge
+Implementation-Version: 1.20.1-1.10.0.9
+Implementation-Vendor: EdwinMindcraft
+Implementation-Timestamp: 2024-05-04T11:35:48+1000
+MixinConfigs: origins.mixins.json
+
