@@ -1,7 +1,7 @@
 {
-    "name": "Wyverian",
+    "name": "Wizard",
     "description": "...",
     "impact": 1,
-    "icon": "miners_delight:bat_wing",
+    "icon": "minecraft:apple",
     "powers": []
 }
